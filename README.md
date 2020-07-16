@@ -1,4 +1,5 @@
-<h1> Analyzing Suicide data set and predicting Suicide Count</h1>
+<h1> Suicide Data Analysis and Prediction</h1>
+<br><i>In this repository, I have analyzed Suicide Dataset and Predicted Suicide Count based on the Historical Dataset</i>
 
 <b><i>Contents:</i></b>
 1) Data Wrangling
