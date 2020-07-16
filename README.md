@@ -2,8 +2,10 @@
 
 <br><i>In this repository, I have analyzed Suicide Dataset and Predicted Suicide Count based on the Historical Dataset</i>
 
-<br>
+
 I have taken this dataset from Kaggle
+<br>
+
 
 
 <b><i>Contents:</i></b>
