@@ -3,7 +3,7 @@
 <br><i>In this repository, I have analyzed Suicide Dataset and Predicted Suicide Count based on the Historical Dataset</i>
 
 
-I have taken this dataset from Kaggle.
+I have taken this dataset from <b>Kaggle</b>.
 <br>
 
 
